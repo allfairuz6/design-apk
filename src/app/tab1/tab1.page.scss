@@ -1,0 +1,33 @@
+
+.container {
+    display: flex;
+    text-align: right;
+    img {
+        margin-left: 20px;
+        height: 80px;
+        width: 80px;
+    }
+}
+
+.isi {
+    background-color: rgb(85, 98, 234);
+    color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    img {
+        height: 30px;
+        width: 30px;
+    }
+   
+}
+
+.isi2 {
+    background-color: rgb(225, 208, 224);
+    border-radius: 10px;
+    text-align: center;
+    img {
+        height: 50px;
+        width: 50px;
+    }
+   
+}
